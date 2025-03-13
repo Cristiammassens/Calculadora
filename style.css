@@ -42,11 +42,11 @@
     height: 30px;
     margin: 5px;
     font-size: 25px;
-    background-color: rgba(100, 162, 255, 0.39);
+    background-color: rgba(243, 246, 250, 0.74);
 }
 .Titulo{
-    color: white;
+    color: rgb(239, 244, 247);
 }
 #resultado{
-    color: white;
+    color: rgb(10, 7, 7);
 }

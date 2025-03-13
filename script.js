@@ -17,3 +17,14 @@ function back()
 
         resultado.value = resultado.value.slice(0, -1)
     }
+function calcular()
+    {
+         if(resultado.value)
+         {
+            resultado.value = eval(resultado.value);
+         }
+         else
+         {
+            resultado.value = "Nada"
+         }
+    }
